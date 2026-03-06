@@ -1,4 +1,3 @@
-[submodule "libs/repo"]
-	path = libs/repo
-	url = https://github.com/aeladawy/ansible-playbooks
-    branch = main
+[submodule "ansible-playbooks"]
+	path = ansible-playbooks
+	url = ../ansible-playbooks.git
